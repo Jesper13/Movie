@@ -5,6 +5,7 @@
 
 **Screen Sizes:** hdpi, xhdpi, xxhdpi, xxxhdpi
 
+**Sample Screenshots**
 
 **Nexus 7 (Portrait)**
 
